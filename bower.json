@@ -1,0 +1,24 @@
+{
+  "name": "purescript-fusion",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-arrays": "^5.2.1",
+    "purescript-foldable-traversable": "^4.1.1"
+  },
+  "devDependencies": {
+    "purescript-benchotron": "^7.0.0",
+    "purescript-options": "https://github.com/ford-prefect/purescript-options.git#^4.0.0",
+    "purescript-test-unit": "^15.0.0"
+  },
+  "resolutions": {
+    "purescript-quickcheck": "^6.0.0",
+    "purescript-record": "^2.0.0",
+    "purescript-typelevel-prelude": "^4.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "purescript-fusion",
+  "private": true,
+  "version": "0.0.1",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "bower": "^1.8.8",
+    "pulp": "^12.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "pulp test"
+  },
+  "author": "klntsky",
+  "license": "ISC"
+}
